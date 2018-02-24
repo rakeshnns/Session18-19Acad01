@@ -1,0 +1,30 @@
+[{
+    "id":1,
+    "from": "Dubai",
+    "des": "Cochin",
+    "timear": "03:00:00",
+    "status": "DELAY"
+},
+{
+    "id":2,
+    "from": "OMAN",
+    "des": "Cochin",
+    "timear": "05:00:00",
+    "status": "ON TIME"
+},
+{
+    "id":3,
+    "from": "Dubai3",
+    "des": "Cochin",
+    "timear": "03:00:00",
+    "status": "DELAY"
+},
+{
+    "id":4,
+    "from": "OMAN4",
+    "des": "Cochin",
+    "timear": "05:00:00",
+    "status": "ON TIME"
+}
+
+]
